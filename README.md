@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Amir**, Fullstack Engineer based in Malaysia.
+I'm **Amir**, Software Engineer based in Malaysia.
 
 Currently working at **Maybank**
 
