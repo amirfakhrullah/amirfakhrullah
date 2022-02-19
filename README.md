@@ -4,6 +4,6 @@ I'm **Amir**, Software Engineer based in Malaysia.
 
 Currently working at **Maybank**
 
-Myy Portfolio Website:
+My Portfolio Website:
 
 [fakhrullah.com](https://fakhrullah.com)
