@@ -6,7 +6,7 @@ I am Full-stack TypeScript Developer
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [My Portfolio](http://www.fakhrullah.com)
 * ✉️  You can contact me at [amirfakhrullah96@gmail.com](mailto:amirfakhrullah96@gmail.com)
-* 🚀  I'm currently working on [Debt-It](http://debt-it.xyz/)
+* 🚀  I'm currently working on [Debt-It](http://debt-it.xyz/) and [BloqDown](https://bloqdown.fakhrullah.com/)
 * 🤝  I'm open to collaborating on any TypeScript/JavaScript open-source projects
 * ⚡  ps: I don't like Luke Skywalker character in Star Wars episode 7, 8 and 9... I think they did him dirty
 
