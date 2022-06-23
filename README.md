@@ -4,7 +4,7 @@ Hi 👋 My name is Amir
 I am Full-stack TypeScript Developer
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [My Portfolio](http://www.fakhrullah.com)
+* 🖥️  See my portfolio at [fakhrullah.com](http://www.fakhrullah.com)
 * ✉️  You can contact me at [amirfakhrullah96@gmail.com](mailto:amirfakhrullah96@gmail.com)
 * 🚀  I'm currently working on [Debt-It](http://debt-it.xyz/) and [BloqDown](https://bloqdown.fakhrullah.com/)
 * 🤝  I'm open to collaborating on any TypeScript/JavaScript open-source projects
